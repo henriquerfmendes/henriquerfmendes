@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @henriquerfmendes
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 📫 How to reach me: by e-mail "henriquerfm@gmail.com" or Linkedin profile "https://www.linkedin.com/in/henrique-rosa-de-farias-mendes-671655218"
