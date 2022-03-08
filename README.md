@@ -1,6 +1,6 @@
 ## 👋🏼  Olá, me chamo Henrique R. F. Mendes
 
- 🖥 Estou estudando HTML, CSS and Javascript
+ 🖥 Estou estudando HTML, CSS e Javascript
 
 <br>
 
