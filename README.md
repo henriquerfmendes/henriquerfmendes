@@ -1,7 +1,10 @@
 ## 👋🏼  Olá, me chamo Henrique R. F. Mendes
 
- 🖥 Sou desenvolvedor full stack com experiência desde abril de 2022, quando iniciei minha carreira como estagiário de desenvolvimento. Em fevereiro de 2023, fui efetivado na posição de desenvolvedor júnior, e em abril de 2024, fui promovido a desenvolvedor pleno. Tenho me especializado e atuado em tecnologias e ferramentas como C#, .NET, Entity Framework, SQL Server, JavaScript, React, HTML, CSS e Git.
-Atualmente, atuo com desenvolvimento front-end usando Typescript e React.
+ 🖥 Sou desenvolvedor full stack, com experiência em React, TypeScript, JavaScript, HTML, CSS, C#, .NET, Entity Framework, SQL Server e Git.
+
+Atualmente, atuo no desenvolvimento front-end, utilizando React e TypeScript. Além disso, estou estudando Angular em projetos pessoais para expandir meus conhecimentos em front-end.
+
+Ao longo da minha trajetória, tive o privilégio de colaborar com meu time em uma variedade de demandas, que vão desde correções e melhorias em sistemas existentes até o desenvolvimento de novos projetos. Nesse contexto, mantive-me comprometido com a entrega dentro dos prazos estabelecidos, priorizando a qualidade e a eficiência em todas as nossas entregas.
 
 <br>
 
