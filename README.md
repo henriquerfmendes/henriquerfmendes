@@ -10,8 +10,8 @@ Ao longo da minha trajetória, tive o privilégio de colaborar com meu time em u
 
 <div align="center">
   <a href="https://github.com/henriquerfmendes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerfmendes&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquerfmendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerfmendes&layout=compact&langs_count=7&theme=dark"/> -->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquerfmendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
