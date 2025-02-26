@@ -14,7 +14,6 @@ Ao longo da minha trajetória, tive o privilégio de colaborar com meu time em u
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquerfmendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-
 ##
 
 <div style="display: inline_block"><br>
