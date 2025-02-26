@@ -6,6 +6,15 @@ Atualmente, atuo no desenvolvimento front-end, utilizando React e TypeScript. Al
 
 Ao longo da minha trajetória, tive o privilégio de colaborar com meu time em uma variedade de demandas, que vão desde correções e melhorias em sistemas existentes até o desenvolvimento de novos projetos. Nesse contexto, mantive-me comprometido com a entrega dentro dos prazos estabelecidos, priorizando a qualidade e a eficiência em todas as nossas entregas.
 
+
+## 👋🏼  Hi, I'm Henrique R. F. Mendes
+
+🖥 I'm a full-stack developer with experience in React, TypeScript, JavaScript, HTML, CSS, C#, .NET, Entity Framework, SQL Server, and Git.
+
+Currently, I work on front-end development using React and TypeScript. Additionally, I am studying Angular in personal projects to expand my front-end knowledge.
+
+Throughout my career, I have had the privilege of collaborating with my team on a variety of demands, ranging from fixes and improvements in existing systems to the development of new projects. In this context, I have remained committed to delivering within established deadlines, prioritizing quality and efficiency in all our deliveries.
+
 <br>
 
 <div align="center">
