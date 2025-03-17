@@ -1,19 +1,15 @@
-## 👋🏼  Olá, me chamo Henrique R. F. Mendes
+## 👋🏼  Olá, me chamo Henrique Mendes
 
- 🖥 Sou desenvolvedor full stack, com experiência em React, TypeScript, JavaScript, HTML, CSS, C#, .NET, Entity Framework, SQL Server e Git.
+ 🖥 Sou desenvolvedor fullstack com experiência em React, TypeScript, C# e .NET. Minha principal especialidade é o desenvolvimento front-end, onde utilizo React e TypeScript para criar aplicações escaláveis, performáticas e com código bem estruturado.
 
-Atualmente, atuo no desenvolvimento front-end, utilizando React e TypeScript. Além disso, estou estudando Angular em projetos pessoais para expandir meus conhecimentos em front-end.
-
-Ao longo da minha trajetória, tive o privilégio de colaborar com meu time em uma variedade de demandas, que vão desde correções e melhorias em sistemas existentes até o desenvolvimento de novos projetos. Nesse contexto, mantive-me comprometido com a entrega dentro dos prazos estabelecidos, priorizando a qualidade e a eficiência em todas as nossas entregas.
+Com um background sólido em .NET e SQL Server, também atuo no desenvolvimento back-end, garantindo integrações eficientes e sistemas robustos. Tenho experiência na refatoração de código, otimização de desempenho e criação de componentes reutilizáveis para melhorar a manutenção e escalabilidade dos projetos.
 
 
-## 👋🏼  Hi, I'm Henrique R. F. Mendes
+## 👋🏼  Hi, I'm Henrique Mendes
 
-🖥 I'm a full-stack developer with experience in React, TypeScript, JavaScript, HTML, CSS, C#, .NET, Entity Framework, SQL Server, and Git.
+🖥 I’m fullstack developer with experience in React, TypeScript, C#, and .NET. My main expertise lies in front-end development, where I use React and TypeScript to build scalable, high-performance applications with well-structured code.
 
-Currently, I work on front-end development using React and TypeScript. Additionally, I am studying Angular in personal projects to expand my front-end knowledge.
-
-Throughout my career, I have had the privilege of collaborating with my team on a variety of demands, ranging from fixes and improvements in existing systems to the development of new projects. In this context, I have remained committed to delivering within established deadlines, prioritizing quality and efficiency in all our deliveries.
+With a strong background in .NET and SQL Server, I also work on back-end development, ensuring efficient integrations and robust systems. I have experience in code refactoring, performance optimization, and creating reusable components to improve project maintainability and scalability.
 
 <br>
 
